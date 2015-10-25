@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Do businuess,but not a slave to it]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-25T15:11:02.485Z</updated>
+  <updated>2015-10-25T15:20:18.837Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,12 +15,12 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title><![CDATA[git区域说明]]></title>
     <link href="http://yoursite.com/2015/10/25/git-area/"/>
     <id>http://yoursite.com/2015/10/25/git-area/</id>
-    <published>2015-10-25T15:11:02.529Z</published>
-    <updated>2015-10-25T15:11:02.485Z</updated>
-    <content type="html"><![CDATA[<h1 id="git区域说明">git区域说明</h1><p>我们都知道git有三个区域： </p>
+    <published>2015-10-24T16:00:00.000Z</published>
+    <updated>2015-10-25T15:20:18.837Z</updated>
+    <content type="html"><![CDATA[<p>我们都知道git有三个区域：  2</p>
 <ol>
 <li>working directory 工作区<br>当前目录下除了.git/其他内容就working directory </li>
 <li>staging area 暂存区<br>是.git/下的index文件 </li>
@@ -29,11 +29,13 @@
 <p>这个算是本人的第一篇正式博客，不足之处请阅读者海涵。 </p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h1 id="git区域说明">git区域说明</h1><p>我们都知道git有三个区域： </p>
+    <![CDATA[<p>我们都知道git有三个区域：  2</p>
 <ol>
 <li>working directory 工作区<br>当前目录下除了.git/其他内容就working directory </li>
-<li>staging a]]>
+<li>staging area 暂存区<br>是.git/下的index文件 ]]>
     </summary>
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
     
   </entry>
   
