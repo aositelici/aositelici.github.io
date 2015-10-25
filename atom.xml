@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Do businuess,but not a slave to it]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-22T08:29:38.487Z</updated>
+  <updated>2015-10-25T15:11:02.485Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2015/10/25/git-area/"/>
+    <id>http://yoursite.com/2015/10/25/git-area/</id>
+    <published>2015-10-25T15:11:02.529Z</published>
+    <updated>2015-10-25T15:11:02.485Z</updated>
+    <content type="html"><![CDATA[<h1 id="git区域说明">git区域说明</h1><p>我们都知道git有三个区域： </p>
+<ol>
+<li>working directory 工作区<br>当前目录下除了.git/其他内容就working directory </li>
+<li>staging area 暂存区<br>是.git/下的index文件 </li>
+<li>repository 版本库<br>.git/是repository 这三者之间的对应关系可以由下图来表示：<br><img src="http://upload-images.jianshu.io/upload_images/1091679-1b0fc8fda67270cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="三个区域对应关系"><br>图中左侧为工作区，右侧为版本库。 .git就是版本库。暂存区是包含在版本库中的一个名为index的文件，index文件中此次暂存的文件的时间戳、长度等信息。有人可能会以后这样的一个虚拟的暂存区有什么意义呢？<br>由于这些文件信息的存在，当扫描工作区改动的时候，系统就可以通过扫描这些信息的改变来判断工作区文件是否发生变化。与扫描实际文件内容相比较这样做无疑效率更高。当然这不仅仅是暂存区存在的理由，有了暂存区，你可以暂存一定数量的文件，当累计到完成一个单位工作量后再进行一次有意义的提交，当然我们提倡小步提交。<br>标记为 “master” 的是 master 分支所代表的目录树。HEAD是一个引用，指向正在使用的分支。</li>
+</ol>
+<p>这个算是本人的第一篇正式博客，不足之处请阅读者海涵。 </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="git区域说明">git区域说明</h1><p>我们都知道git有三个区域： </p>
+<ol>
+<li>working directory 工作区<br>当前目录下除了.git/其他内容就working directory </li>
+<li>staging a]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello]]></title>
