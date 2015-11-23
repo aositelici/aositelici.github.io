@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Do businuess,but not a slave to it]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-25T15:25:30.877Z</updated>
+  <updated>2015-11-23T14:14:08.983Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,11 +15,69 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[怎样沟通]]></title>
+    <link href="http://yoursite.com/2015/11/23/communication/"/>
+    <id>http://yoursite.com/2015/11/23/communication/</id>
+    <published>2015-11-22T16:00:00.000Z</published>
+    <updated>2015-11-23T14:14:08.983Z</updated>
+    <content type="html"><![CDATA[<p>无论在生活中还是在工作中，沟通都有其非常重要的意义。普遍上讲沟通具有各种各样，丰富多彩的形式，然而真正高效，真正能达到你想完成的目标的沟通才是好的沟通。于工作上，更是这样，高效良好的沟通，对同事，对领导，对客户而言都是非常必要的。</p>
+<hr>
+<p>那么如何实现高效良好的沟通呢？假如我们针对一个需要沟通解决的问题要组织一场会议，那么我们应该确定哪些要素呢？</p>
+<ul>
+<li>facilitator  把握时间的人，一个会议不可能持续一年吧，有人喊开始，就要有人喊停。需要有人控制它的进度，什么地方要重点商议，什么地方要会议结束后再作调整。</li>
+<li>agenda 会议的流程要事先敲定，当然会议中可能出现新的问题，但是总的流程还是要一一做到。</li>
+<li>goal 会议需要有一个目标，才能说这个会议是有意义的。完成这个目标，沟通的过程就结束了。</li>
+<li>prepare 每个与会的人在会议前都应该准备好自己的疑问，观点，这样才能收获颇多。</li>
+<li>who where when 也许你会说这还用说，没有这怎么开会，是的没错，这是三要素，它不仅是必须的还是需要好好考量的。谁真的需要来开会，几点开会合适，会议的内容决定了其在哪里开更合适。</li>
+<li>time box 无论谁发言，无论沟通中遇到了什么样的争论，时间都是必须要被控制的。</li>
+<li>process 把握开会的进程。</li>
+<li>notice 会议后需要通知会议以外需要了解会议内容的其他人。</li>
+</ul>
+<hr>
+<p>当你需要给你的同时一些必要的工作上的feedback的时候，要基于什么样的心态去提，要怎样开始一段对话呢？你既要保证你不会因为一个善意的建议而得罪你的朋友，又要保证不会伤害一个你“看不上眼的”同事，这便要考验你沟通的技巧。</p>
+<ul>
+<li>safety 保证你的feedback不会触及对方的宗教，信仰，底线。就像你不能在清真里吃火腿肠；</li>
+<li>positive 首先要保证你进行此次交流的态度是积极的，是希望对方能有提高，而不是为了beat他；</li>
+<li>consent feedback最好是双方的，双向建议，互相评价，共同提升；</li>
+<li>direct 既然决定做feedback，就直接了断，不要婆婆妈妈，半天说不到点上；</li>
+<li>specific 针对不同的人给与specific的feedback，不要用模板；</li>
+<li>against behavior 每个feedback都要有的放矢，针对具体的行为；</li>
+<li>sincere 交流要真诚；</li>
+<li>frequency 要控制作feedback的频率，是一周一次，还是半个月一次，还是一个月一次；</li>
+<li>follow up 对以前的记录进行跟踪，看是否有提高，看通过feedback发生了什么样的变化。</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>无论在生活中还是在工作中，沟通都有其非常重要的意义。普遍上讲沟通具有各种各样，丰富多彩的形式，然而真正高效，真正能达到你想完成的目标的沟通才是好的沟通。于工作上，更是这样，高效良好的沟通，对同事，对领导，对客户而言都是非常必要的。</p>
+<hr>
+<p>那么如何实现高效良]]>
+    </summary>
+    
+      <category term="心得" scheme="http://yoursite.com/tags/%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello]]></title>
+    <link href="http://yoursite.com/2015/11/12/hello-world/"/>
+    <id>http://yoursite.com/2015/11/12/hello-world/</id>
+    <published>2015-11-12T09:06:49.753Z</published>
+    <updated>2015-11-12T04:51:10.000Z</updated>
+    <content type="html"><![CDATA[<p>This is my first blog in github,hahaha…..<br>In the next days,I may share some feelings, technologies or stories here.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is my first blog in github,hahaha…..<br>In the next days,I may share some feelings, technologies or stories here.</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[git区域说明]]></title>
     <link href="http://yoursite.com/2015/10/25/git-area/"/>
     <id>http://yoursite.com/2015/10/25/git-area/</id>
     <published>2015-10-24T16:00:00.000Z</published>
-    <updated>2015-10-25T15:25:30.877Z</updated>
+    <updated>2015-11-12T04:51:10.000Z</updated>
     <content type="html"><![CDATA[<p>我们都知道git有三个区域：  </p>
 <ol>
 <li>working directory 工作区<br>当前目录下除了.git/其他内容就working directory </li>
@@ -36,21 +94,6 @@
     </summary>
     
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello]]></title>
-    <link href="http://yoursite.com/2015/10/22/hello-world/"/>
-    <id>http://yoursite.com/2015/10/22/hello-world/</id>
-    <published>2015-10-22T08:29:38.531Z</published>
-    <updated>2015-10-22T08:29:38.487Z</updated>
-    <content type="html"><![CDATA[<p>This is my first blog in github,hahaha…..<br>In the next days,I may share some feelings, technologies or stories here.</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>This is my first blog in github,hahaha…..<br>In the next days,I may share some feelings, technologies or stories here.</p>
-]]>
-    </summary>
     
   </entry>
   

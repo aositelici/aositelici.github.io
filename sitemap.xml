@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2015/10/25/git-area/</loc>
-    <lastmod>2015-10-25T15:25:30.877Z</lastmod>
+    <loc>http://yoursite.com/2015/11/23/communication/</loc>
+    <lastmod>2015-11-23T14:14:08.983Z</lastmod>
   </url>
   
   <url>
-    <loc>http://yoursite.com/2015/10/22/hello-world/</loc>
-    <lastmod>2015-10-22T08:29:38.487Z</lastmod>
+    <loc>http://yoursite.com/2015/11/12/hello-world/</loc>
+    <lastmod>2015-11-12T04:51:10.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2015/10/25/git-area/</loc>
+    <lastmod>2015-11-12T04:51:10.000Z</lastmod>
   </url>
   
 </urlset>
